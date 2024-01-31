@@ -16,9 +16,9 @@ limitations under the License.  */
 :root{
     --primary: white;
     --secondary: green;
-    --bg : url("img/dbg.jpg");
+    --bg : url("img/lbg.jpg");
     --con: rgb(255, 165, 0);
-    --lbg: url("img/lbg.jpg");
+    --lbg: url("img/dbg.jpg");
     --icons: white;
     --i-hover: white;
     --border: 4px solid white;
@@ -45,7 +45,7 @@ body{
 .dmode{
     --primary: black;
     --secondary: #fff;
-    --bg: url("img/lbg.jpg");
+    --bg: url("img/dbg.jpg");
     --icons: #c4c4c4;
     --i-hover: #4facfe;
     --menu:#4facfe;
