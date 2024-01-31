@@ -17,7 +17,7 @@ limitations under the License.  */
     --primary: white;
     --secondary: black;
     --bg : url("img/dbg.jpg");
-    --con: rgb(243, 21, 21);
+    --con: rgb(255, 165, 0);
     --lbg: url("img/lbg.jpg");
     --icons: white;
     --i-hover: red;
