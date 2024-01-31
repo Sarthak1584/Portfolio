@@ -14,8 +14,8 @@ limitations under the License.  */
 
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&family=Poppins:wght@200&display=swap');
 :root{
-    --primary: green;
-    --secondary: blue;
+    --primary: white;
+    --secondary: green;
     --bg : url("img/dbg.jpg");
     --con: rgb(255, 165, 0);
     --lbg: url("img/lbg.jpg");
